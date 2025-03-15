@@ -1,5 +1,4 @@
 import { bangMap } from './bang';
-import './style.css';
 
 function findBangAtEnd(inputString: string) {
   const bangPattern = /!\w+$/;
